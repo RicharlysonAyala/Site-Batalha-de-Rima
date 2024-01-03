@@ -1,0 +1,83 @@
+/* Padrões */
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;
+}
+
+.container {
+    background-color: #fff;
+    max-width: 1100px;
+    margin: 50px auto;
+    position: relative;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Cabeçalho */
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+/* Imagem Destaque */
+.imagem-destaque {
+    margin-top: 35px;
+    text-align: center;
+}
+
+#imagem {
+    width: 775px;
+    height: 510px;
+}
+
+/* informações */
+.info {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+/* Citação */
+.quote {
+    background-color: #ddd;
+    padding: 30px;
+}
+
+.quote blockquote {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.quote p {
+    font-style: italic;
+}
+
+/* Curiosidades */
+.curiosidades {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.curiosidades li {
+    height: 33px;
+}
+
+/* Imagem Bold */
+.image-bold {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+}
